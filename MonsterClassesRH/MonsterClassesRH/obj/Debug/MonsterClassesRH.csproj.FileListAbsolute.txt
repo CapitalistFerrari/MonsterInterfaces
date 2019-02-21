@@ -1,0 +1,14 @@
+C:\Users\Ryan\Desktop\MonsterClassesRH\MonsterClassesRH\bin\Debug\MonsterClassesRH.exe.config
+C:\Users\Ryan\Desktop\MonsterClassesRH\MonsterClassesRH\bin\Debug\MonsterClassesRH.exe
+C:\Users\Ryan\Desktop\MonsterClassesRH\MonsterClassesRH\bin\Debug\MonsterClassesRH.pdb
+C:\Users\Ryan\Desktop\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.exe
+C:\Users\Ryan\Desktop\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.pdb
+F:\MonsterClassesRH\MonsterClassesRH\bin\Debug\MonsterClassesRH.exe.config
+F:\MonsterClassesRH\MonsterClassesRH\bin\Debug\MonsterClassesRH.exe
+F:\MonsterClassesRH\MonsterClassesRH\bin\Debug\MonsterClassesRH.pdb
+F:\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.csprojAssemblyReference.cache
+F:\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.csproj.CoreCompileInputs.cache
+F:\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.exe
+F:\MonsterClassesRH\MonsterClassesRH\obj\Debug\MonsterClassesRH.pdb
